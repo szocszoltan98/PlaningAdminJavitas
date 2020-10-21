@@ -1,4 +1,0 @@
-#Mon Mar 04 09:28:38 IST 2019
-base.0=C\:\\Users\\Def\\Desktop\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
-path.0=classes.dex
-renamed.0=classes.dex
